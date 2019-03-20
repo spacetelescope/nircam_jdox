@@ -1,0 +1,15 @@
+name: nircam_jdox
+channels:
+- http://ssb.stsci.edu/astroconda-dev
+- defaults
+dependencies:
+- asdf>=2.3.0
+- astropy
+- scipy
+- ipython>7.2.0
+- matplotlib=3.0.2
+- numpy>1.16.0
+- numpydoc>=0.8.0
+- pillow
+- python>3.4.0
+- pytest>4.3.0
